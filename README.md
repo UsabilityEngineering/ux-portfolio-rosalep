@@ -7,7 +7,8 @@ My name is Paulina Rosales. My major is Computer Science, and this is my first s
 
 ## UX Team Project
 
-Budget Travel
+[Budget Travel](https://chicostate.github.io/UX-BudgetTravel/)
+
 
 ## UX Journal
 
