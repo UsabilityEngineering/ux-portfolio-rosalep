@@ -7,7 +7,7 @@ My name is Paulina Rosales. My major is Computer Science, and this is my first s
 
 ## UX Team Project
 
-Coming soon.
+Budget Travel
 
 ## UX Journal
 
